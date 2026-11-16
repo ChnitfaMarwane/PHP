@@ -1,0 +1,3 @@
+1;benali;sara;GI;14.5;etu_65a1.jpg
+2;qachmiry;khalid;GI;19.99;6afb2c38480e3.png
+3;CHNITFA;Marwane;GI;20;6afb2d717d31c.png
